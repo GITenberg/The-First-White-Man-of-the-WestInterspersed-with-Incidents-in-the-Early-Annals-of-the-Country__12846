@@ -1,0 +1,29 @@
+_repo: The-First-White-Man-of-the-WestInterspersed-with-Incidents-in-the-Early-Annals-of-the-Country__12846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flint, Timothy
+    birthdate: 1780
+    deathdate: 1840
+    gutenberg_agent_id: '4664'
+    url: http://www.gutenberg.org/2009/agents/4664
+description: ''
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boone, Daniel, 1734-1820'
+- !lcc 'F396'
+- !lcsh 'Pioneers -- Kentucky -- Biography'
+- GITenberg
+title: 'The First White Man of the West
+
+  Life and Exploits of Col. Dan''l. Boone, the First Settler of Kentucky;
+
+  Interspersed with Incidents in the Early Annals of the Country.'
+url: http://www.gutenberg.org/ebooks/12846
